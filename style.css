@@ -5,3 +5,8 @@
 #timer {
   text-align: center;
 }
+
+#alert {
+  text-align: center;
+  color: red;
+}
